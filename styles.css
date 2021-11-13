@@ -1,0 +1,97 @@
+body {
+  text-align: center;
+  background: rgb(242,119,10);
+background: linear-gradient(90deg, rgba(242,119,10,1) 0%, rgba(245,202,4,1) 35%, rgba(255,214,0,0.8995973389355743) 100%);
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 rgb(242,119,10);
+
+}
+
+footer {
+  color: white;
+  font-size: 2rem;
+  font-family: sans-serif;
+  text-shadow: black;
+}
+
+.w {
+  background-image: url("images/dog.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.a {
+  background-image: url("images/cat.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.s {
+  background-image: url("images/cow.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.d {
+  background-image: url("images/horse.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.j {
+  background-image: url("images/chicken.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.k {
+  background-image: url("images/sheep.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.l {
+  background-image: url("images/pig.png");
+  background-size: cover;
+  background-position: 0,5rem;
+}
+.enter{
+  background-image: url("images/macdonald.jpg");
+  background-position: center;
+  background-size: cover;
+}
+.set {
+  margin: 10% auto;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.animals {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 3rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
