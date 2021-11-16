@@ -61,7 +61,7 @@ function makeSound(key) {
             pig.play();
             break;
 
-            case "Enter":
+            case "m":
                 var song = new Audio ('sounds/Old-macdonald-had-a-farm.mp3');
                 song.play();
                 break;
